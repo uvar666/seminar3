@@ -86,3 +86,11 @@
     git branch -d <branch_name>
 
 где \<branch_name>, имя удаляемой ветки
+
+## Слияние веток
+
+Для слифния веток нужно ввести команду:
+
+    git merge <branch_name>
+
+где \<branch_name>, имя ветки
